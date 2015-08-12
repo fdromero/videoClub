@@ -5,6 +5,8 @@ class Cliente
 {
     private $nombre;
     private $productosAlquilados;
+    
+    //esto modifique
 
     public function __construct($nombre)
     {
